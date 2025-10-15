@@ -1,4 +1,4 @@
-# soundness
-# use when in need
-# thik hai
-# NO
+ # soundness
+# use when in need 
+# thik hai 
+# NO 
